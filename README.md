@@ -10,7 +10,7 @@ Implementing SQL queries By database management system and  java database contro
 - Program runs through self-runnable Cmd app
 ### User Guide:
 Run “excucation.bat” and enter your SQL query in right syntax and then you can do more queries or exit by typing “end”.
-###################################################################################################################
+
 ### JDBC:
 ### Program Specifications:
 - Program creates the driver , connection , statement which are ready to accept your sql query , check it and then transfer it to DBMS to execute it and send the result back (if there is a result ) or just edit or create your databases and your tables
@@ -20,5 +20,5 @@ Run “excucation.bat” and enter your SQL query in right syntax and then you c
 
 ### User Guide:	
 Run “excucation.bat”, wait creation of connection then enter your SQL query in right syntax and then you can do more queries or exit by typing “end”.
-###################################################################################################################
+
 ### FOR MORE INFO >>>>>>>>>>>>>>>>>>>>> VIEW REPORT FILES IN EACH FOLDER
