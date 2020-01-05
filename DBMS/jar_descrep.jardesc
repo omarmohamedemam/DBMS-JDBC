@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="JDBC/JDBC.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/DBMS/jar_descrep.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=JDBC/src&lt;eg.edu.alexu.csd.oop{Run.java[Run" manifestLocation="/JDBC/run" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/JDBC/DBMS.jar"/>
+        <javaElement handleIdentifier="=JDBC/src"/>
+        <file path="/JDBC/.classpath"/>
+        <file path="/JDBC/.project"/>
+    </selectedElements>
+</jardesc>

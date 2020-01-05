@@ -1,0 +1,2 @@
+Name: db
+PATH: D:\DBMS\databases\db
